@@ -1,3 +1,3 @@
 - <b>CCNA Networking Labs</b>
   - [Day 21 Lab: Configuring STP](https://github.com/qjackson14/stpconfig)
-  - [Day 23 Lab: Etehrchannel](https://github.com/qjackson14/etherchannel)
+  - [Day 23 Lab: Etherchannel](https://github.com/qjackson14/etherchannel)
