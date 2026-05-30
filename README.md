@@ -4,3 +4,4 @@
   - [Day 25 Lab: EIGRP Configuration](https://github.com/qjackson14/eigrpconfig)
   - [Day 26 Lab: OSPF Pt. 1](https://github.com/qjackson14/ospf1)
   - [Day 27 Lab: OSPF Pt. 2](https://github.com/qjackson14/ospf2)
+  - [Day 28 Lab: OSPF Pt. 3](https://github.com/qjackson14/ospf3)
